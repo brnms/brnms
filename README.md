@@ -8,7 +8,7 @@
 </ul>
 
 
-<em>The world you desire can be won. It exists.. it is real.. it is possible.. it’s yours.”</em>
+<em>“The world you desire can be won. It exists.. it is real.. it is possible.. it’s yours.”</em>
 
 
 <a href="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=brnms"><img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=brnms&layout=compact&theme=merko" />
