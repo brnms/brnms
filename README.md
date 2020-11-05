@@ -1,7 +1,7 @@
-### Hey, I'm Bruno Santos from Brazil 🇧🇷
-
+### Hey, I'm Bruno Santos
 
 <ul>
+    <li> :br: Brazil</li>
     <li> :computer: Front-End Developer</li>
     <li> :dart: Javascript, ReactJS, NodeJS, MongoDB, Python</li>
     <li> :mag: Interested in Open Source, Privacy, Cryptocurrencies, Finance</li>
