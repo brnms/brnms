@@ -1,4 +1,4 @@
-### Hey, I'm Bruno Santos from Brazil 
+### Hey, I'm Bruno Santos from Brazil 🇧🇷
 
 <ul>
     <li> :computer: Front-End Developer</li>
