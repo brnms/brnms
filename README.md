@@ -1,8 +1,8 @@
 ### Hey, I'm Bruno Santos from Brazil :brazil:
 
 <ul>
-    <li> :computer: Front-End Developer</li>
-    <li> :dart: Javascript, ReactJS, NodeJS, MongoDB, Python</li>
+    <li> :computer: Fullstack Developer</li>
+    <li> :dart: Javascript, ReactJS, NodeJS, GraphQL, MongoDB, PostgreSQL, Golang, DevOps</li>
     <li> :mag: Interested in Open Source, Privacy, Cryptocurrencies, Finance</li>
     <li> :heart: Passionate about Music, Games, Movies and Series
 </ul>
