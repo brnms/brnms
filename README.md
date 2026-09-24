@@ -33,7 +33,8 @@ Currently focused on **Backend (Node.js, Python)**, **Advanced SQL**, and **Data
 
 ### Stats & Contact
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brnms&layout=donut&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=brnms&layout=compact&theme=dracula)
+
 
 <p align="left">
   <a href="mailto:bruno.matasantos@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
