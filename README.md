@@ -31,9 +31,7 @@ Currently focused on **Backend (Node.js, Python)**, **Advanced SQL**, and **Data
 
 ---
 
-### Stats & Contact
-
-![TOP Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=brnms&layout=compact&theme=dracula)
+### Contact
 
 
 <p align="left">
