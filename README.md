@@ -33,7 +33,7 @@ Currently focused on **Backend (Node.js, Python)**, **Advanced SQL**, and **Data
 
 ### Featured Projects
 
-- 🎸 **[Metal Analytics SP](https://github.com/brnms/metal-analytics-sp)** — A venue recommendation engine built with **Python & Pandas** to estimate concert attendance and match heavy metal bands with optimal venues in São Paulo based on global vs. local audience metrics.
+- 🎸 **[Metal Analytics SP](https://github.com/brnms/metal-analytics-sp)** — A venue & market analysis engine built with **Python & Pandas** to identify pent-up demand for heavy metal bands that haven't performed in Brazil recently (or ever), estimating ticket attendance and matching artists with optimal venues in São Paulo.
 
 ---
 
