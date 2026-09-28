@@ -31,8 +31,13 @@ Currently focused on **Backend (Node.js, Python)**, **Advanced SQL**, and **Data
 
 ---
 
-### Contact
+### Featured Projects
 
+- 🎸 **[Metal Analytics SP](https://github.com/brnms/metal-analytics-sp)** — A venue recommendation engine built with **Python & Pandas** to estimate concert attendance and match heavy metal bands with optimal venues in São Paulo based on global vs. local audience metrics.
+
+---
+
+### Contact
 
 <p align="left">
   <a href="mailto:bruno.matasantos@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
