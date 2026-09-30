@@ -31,7 +31,7 @@ Currently focused on **Backend (Node.js, Python)**, **Advanced SQL**, and **Data
 
 ---
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=anuraghazra&langs_count=4&theme=dark_github)](https://github-stats-extended.vercel.app/api/top-langs?username=anuraghazra&langs_count=4&theme=dark_github)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=brnms&langs_count=4&theme=dark_github)](https://github-stats-extended.vercel.app/api/top-langs?username=brnms&langs_count=4&theme=dark_github)
 
 ### Featured Projects
 
