@@ -31,6 +31,8 @@ Currently focused on **Backend (Node.js, Python)**, **Advanced SQL**, and **Data
 
 ---
 
+[![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=brnms)](https://github.com/stats-organization/github-stats-extended)
+
 ### Featured Projects
 
 - 🎸 **[Metal Analytics SP](https://github.com/brnms/metal-analytics-sp)** — A venue & market analysis engine built with **Python & Pandas** to identify pent-up demand for heavy metal bands that haven't performed in Brazil recently (or ever), estimating ticket attendance and matching artists with optimal venues in São Paulo.
